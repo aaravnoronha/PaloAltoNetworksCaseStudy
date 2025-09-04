@@ -138,7 +138,7 @@ Date,Merchant,Amount,Category
 
 ## Video Presentation
 
-[5-minute demo video link]
+https://youtu.be/dQnEFCc-RyA
 
 ## Author
 
