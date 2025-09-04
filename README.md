@@ -111,14 +111,14 @@ npm install
 npm start
 
 # Access application
-# Server: http://localhost:3000
-# Client: Open client/index.html in browser
+# Backend API: http://localhost:3000
+# Frontend UI: file:///Users/aaravnoronha/PaloAltoNetworksCaseStudy/client/index.html
 ```
 
 ## Usage
 
-1. **Initialize**: Start server with `npm start`
-2. **Connect**: Open client/index.html
+1. **Start Server**: Navigate to server folder and run `npm start`
+2. **Open UI**: Open `file:///Users/aaravnoronha/PaloAltoNetworksCaseStudy/client/index.html` in browser
 3. **Explore**: View insights and spending patterns
 4. **Upload**: Import CSV files for custom analysis
 
@@ -128,13 +128,6 @@ Date,Merchant,Amount,Category
 2024-10-01,Starbucks,6.75,Coffee
 2024-10-02,Amazon,45.23,Shopping
 ```
-
-## Performance
-
-- API response: < 50ms
-- Dataset: 600+ transactions
-- Memory usage: ~60MB
-- Concurrent users: 100+
 
 ## Testing
 
@@ -160,4 +153,4 @@ curl http://localhost:3000/api/insights
 
 **Aarav Noronha**  
 Palo Alto Networks IT Role Case Study  
-September 2024
+September 2025
