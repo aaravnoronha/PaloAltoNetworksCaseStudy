@@ -19,7 +19,7 @@ npm install
 npm start
 
 # Open client (new terminal/browser, use the file protocol)
-file:///../client/index.html
+file:///Users/aaravnoronha/PaloAltoNetworksCaseStudy/client/index.html
 ```
 
 Server runs on `http://localhost:3000`
