@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-SmartFin AI is a full-stack financial intelligence platform that provides personalized spending insights through pattern recognition and data analysis. The system processes transaction data to identify spending habits, detect subscriptions, and generate actionable recommendations for financial optimization.
+SmartFin AI is a full-stack financial intelligence platform that provides personalized spending insights through pattern recognition and data analysis. The system processes transaction data to identify spending habits and generate actionable recommendations for financial optimization.
 
 ## Design Choices
 
