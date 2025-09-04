@@ -10,7 +10,7 @@ SmartFin AI analyzes spending patterns to provide personalized financial insight
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/PaloAltoNetworksCaseStudy.git
+git clone https://github.com/aaravnoronha/PaloAltoNetworksCaseStudy.git
 cd PaloAltoNetworksCaseStudy
 
 # Start server
