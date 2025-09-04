@@ -129,15 +129,6 @@ Date,Merchant,Amount,Category
 2024-10-02,Amazon,45.23,Shopping
 ```
 
-## Testing
-
-```bash
-# Test API endpoints
-curl http://localhost:3000/api/health
-curl http://localhost:3000/api/summary
-curl http://localhost:3000/api/insights
-```
-
 ## Future Enhancements
 
 - PostgreSQL integration
